@@ -477,6 +477,7 @@ http://localhost:8000/redoc # ReDoc
 
 ---
 
+
 ### **1️⃣ 模型整體架構**
 
 DeepSeek‑OCR 是一個 **多模態（Multimodal）OCR 模型**，可以直接把圖像作為輸入，輸出文字或結構化文本（Markdown、HTML-like 標記）。架構主要由三個部分組成：
