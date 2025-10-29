@@ -814,7 +814,7 @@ count_tiles()
 
 ---
 
-# **DeepSeek-OCR 功能精華（總結）**
+# **DeepSeek-OCR 功能總結**
 
 ✅ **通用 OCR**
 
