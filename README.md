@@ -1,2 +1,2 @@
 # DeepSeek-OCR_DockerDeploy
-For off-line testing &amp; deploying DeepSeek-OCR by building an docker image
+For offline testing and deployment of DeepSeek-OCR by building a Docker image.
